@@ -1,0 +1,16 @@
+Preguntas en el chat:
+
+Hace falta el {% load static %} en clientes.html? → SI (ver rta)
+
+ahh pero no se borra el admin clientes, es como que te pone adelante el otro. Lo reemplaza no? --> SI
+
+si le pones el nombre directo podes tener injeccion? --> si, puede pasar qe alguien borre la table o.O
+
+el argumento  de cursor.execute [nombre_cliente] siempre se coloca entre [] ? → siempre se pasa como una lista. si mi query espera varios argumentos seria en una lista de manaera ordenada
+
+descargar DB Browser: https://sqlitebrowser.org/dl/
+
+
+
+
+
