@@ -8,9 +8,26 @@ si le pones el nombre directo podes tener injeccion? --> si, puede pasar qe algu
 
 el argumento  de cursor.execute [nombre_cliente] siempre se coloca entre [] ? → siempre se pasa como una lista. si mi query espera varios argumentos seria en una lista de manaera ordenada
 
+Laboratorio
+
 descargar DB Browser: https://sqlitebrowser.org/dl/
 
+dueño es int, estaría conectado con el numero dni no de la tabla clientes?
 
+lo ideal seria crear dos funciones diferentes en el view para traer cada tabla osea todos los datos? 
+
+
+en base a lo que charlaron recien 😅, hoy en dia las aplicaciones web que tecnologias aplican normalmente? Tipo para el font ReactJs, HTML,CSS,SASS,Js,Bootstrap y para el back NodeJs, Django, Java, etc..?
+
+O sea que una aplicacion puede tener varias tecnologias independientemente del lenguaje 
+
+botón lo podes hacer con django? 
+
+.as_p para que era? 
+
+claro si, pasa que algunas cosas del formulario es mejor crearlas en django para q no se pueda manipular facilemnete por el cliente 
+
+se puede poner as_div por ejemplo? --> no se puede poner en cualquier caja 
 
 
 
